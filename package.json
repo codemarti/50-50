@@ -1,0 +1,36 @@
+{
+  "name": "50-50",
+  "version": "1.0.0",
+  "description": "¡ 50 proyectos que puedes realizar en 50 días !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngmarti/50-50.git"
+  },
+  "keywords": [
+    "50",
+    "50-50",
+    "días",
+    "día",
+    "proyectos",
+    "proyecto",
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "youngmarti - Martín Martínez Arias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngmarti/50-50/issues"
+  },
+  "homepage": "https://github.com/youngmarti/50-50#readme",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
